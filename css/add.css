@@ -40,6 +40,33 @@ font-size: 30px;
 margin-inline: 40px;
 }
 
+.overlay1{
+    position: absolute;
+   margin-top:200px;
+    top: 200px;
+    left: 200px;
+    right: 200px;
+    background-color: rgb(251, 251, 251);
+    color: #2a2828;
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+    direction: rtl;
+}
+.overlay1 h1{
+   font-weight:bold; 
+   font-size: 50px;
+   color: #0c0c0c;
+   text-align: center;
+   margin-inline: 40px;
+   margin-top: 30px;
+   
+}
+.overlay1 p{
+font-size: 30px;
+margin-inline: 40px;
+}
+
 
 .contact-info {
             margin-right: 20px;
