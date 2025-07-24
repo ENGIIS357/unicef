@@ -290,6 +290,13 @@ body {
 
   }
 }
+@media (max-width: 768px) {
+  .full-image {
+    flex-direction: column;
+    align-items: center;
+
+  }
+}
  
 
 

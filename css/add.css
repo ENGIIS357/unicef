@@ -26,6 +26,9 @@ border-radius: 10px;
     text-align: right;
     direction: rtl;
 }
+
+
+
 .overlay h1{
    font-weight:bold; 
    font-size: 50px;
@@ -133,3 +136,4 @@ margin-inline: 40px;
 border-radius: 10px;
   margin-bottom: 10px;
 }
+
